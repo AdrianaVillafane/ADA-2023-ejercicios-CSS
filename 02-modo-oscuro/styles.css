@@ -1,0 +1,31 @@
+*{
+    background-color: darkmagenta;
+}
+
+h1{
+    font-size: 120px;
+    font-family: 'Montserrat', sans-serif;
+    color: antiquewhite;
+}
+p{
+    font-size: 48px;
+    color: antiquewhite;
+}
+.name{
+    color: blueviolet;
+}
+.oficio{
+    color: greenyellow;
+}
+.gamer{
+    color: blue;
+}
+.gamer2{
+    color: brown;
+}
+.leer{
+    color: burlywood;
+}
+.web{
+    color: chartreuse;
+}
