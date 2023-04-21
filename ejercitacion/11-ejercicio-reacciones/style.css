@@ -1,0 +1,27 @@
+section{
+    width: 80vh;
+    background-color: antiquewhite;
+    border: 2px solid gray;
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+h2{
+    font-size: 2em;
+}
+h3{
+    font-size: 1.5em;
+}
+a{
+    color: rgb(38, 243, 65);
+    text-decoration: none;
+}
+.fecha{
+    font-size: 0.8em;
+    color: rgb(216, 201, 201);
+}
+span{
+    background-color: rgb(184, 154, 154);
+}
