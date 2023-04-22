@@ -1,0 +1,45 @@
+.box{
+    width: 80vh;
+    border: 2px solid grey;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    margin: auto;
+    font-size: 2em;
+    list-style: none;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.caja1{
+    background-color: blue;
+}
+.caja2{
+    background-color: rgb(98, 98, 245);
+}
+.caja3{
+    background-color: rgb(179, 179, 238);
+}
+.caja4{
+    background-color: rgb(230, 230, 236);
+}
+.caja5{
+    background-color: rgb(241, 244, 136);
+}
+.caja6{
+    background-color: rgb(219, 240, 105);
+}
+.caja7{
+    background-color: rgb(244, 241, 77);
+}
+.caja8{
+    background-color: rgb(255, 217, 0);
+
+}
+.caja9{
+    background-color: rgb(255, 128, 0);
+}
+.caja10{
+    background-color: rgb(255, 102, 0);
+}
+.caja11{
+    background-color: rgb(255, 60, 0);
+}

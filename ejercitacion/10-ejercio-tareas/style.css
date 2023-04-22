@@ -1,0 +1,29 @@
+section{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 50vh;
+    margin: auto;
+    border: 2px solid gray;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: antiquewhite;
+}
+h1{
+    font-size: 2em;
+}
+h2{
+    font-size: 1.5em;
+}
+h3{
+    font-size: 1.2em;
+}
+.pendiente{
+    background-color: rgb(92, 92, 237);
+}
+.hecho{
+    background-color: rgb(37, 241, 37);
+}
+
+p{
+    font-style: oblique;
+    
+}
